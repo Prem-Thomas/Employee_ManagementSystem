@@ -1,0 +1,37 @@
+Employee_ManagementSystem
+Description
+the Employee management System is a robust Java-based application designed to optimize the orchestration of employee data within an organational Framework. This System offres an intuitive and user-friendly interface, empowering users to seamlessly perform actions such as adding,Updating,Deleting and retrieving employee details. Additionally, it Provides the flexibility to sort and Diplay employee records based on either employee Number or Name.
+
+Features :
+Add Employee : Empower users to effortlessly input vital details, including employee Number, Name, Phone, Age,Designation, and Salary, thereby facilitating the adding of new employees to the database.
+
+Update Employee : Enable users to efficiently update employee details by entering the respective employee number. The System intuitively prompts for updated information, covering aspects such as Name, Phone, Age, Designation, and Salary.
+
+Find All Employees : Present users with a comprehesive list of all employees stored in the database. In case where the database is empty, the system communicates this status, ensuring transparency in data availability.
+
+Find Employee by Employee Number : Facilitate targeted searches by allowing users to locate a specific employee through the input of an employee number. The System responds by displaying the detailed information of the identified employee, or alternatively, communicates the absence of the specified employee.
+
+Delete Employee by Employee Number : Provide users with the ability to seamlessly remove an employee from the database by entering associated employee number. The System promptly confirms the successful deletion or communicates the non-existence of the specified employee.
+
+Sort Employees by Employee Number and Number: Offer users the flexibility to dynamically sort and display the list of Employees based on either employee number or name. This feature significantly enhances the organizational structure and accessibility of Employee records.
+
+Project Purpose :
+The Employee Management System is strategically crafted to simplify and elevate HR and Administrative processes. By delivering an organized and efficient platform for managing employee information,The System ensures the maintenance of accurate and up-to-date records. This, in turn, facilitates swift retrieval of employee details, contributing to informed decision-making within the organization.The System is not just a tool; it's a solution designed to enhance operational efficiency and contribute to the overall success of the organization.
+
+/*
+  
+git init
+git add .
+git commit -m "comment"
+ git remote add origin -url
+git push -u origin master
+--- Error : Failed to push some refs to origin
+"Solve to error"
+git pull --rebase origin master
+git log
+git push -u origin master
+
+
+
+
+*/
